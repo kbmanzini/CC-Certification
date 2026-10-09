@@ -116,4 +116,3 @@ Poor identity management can lead to:
 ## Exam Memory Trick
 
 **Define → Provision → Review → Deprovision**
-<!-- temporary test -->
